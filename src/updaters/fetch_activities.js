@@ -1,10 +1,9 @@
-// Inspired by https://github.com/cheesits456/github-activity-readme
+//Inspired by https://github.com/cheesits456/github-activity-readme
 
 import { Toolkit } from "actions-toolkit";
 import { activity } from "../config.js";
 
 export async function fetch_activities(username) {
- let content;
  if (!username) throw new Error("You must provide a Github username!");
  const capitalize = (str) => str.slice(0, 1).toUpperCase() + str.slice(1);
  const serializers = {
@@ -17,7 +16,7 @@ export async function fetch_activities(username) {
    if (item.payload.ref_type === "branch") return `${actionIcon("create-branch", "📂")} Created branch ${toUrlFormat(item.repo.name, item.payload.ref, item.public)} in ${toUrlFormat(item.repo.name, null, item.public)}`;
   },
   DeleteEvent: (item) => {
-   return `${actionIcon("delete", "❌")} Deleted \`${item.payload.ref.slice(0, 30)}${item.payload.ref.length >= 30 ? "..." : ""}\` from ${toUrlFormat(item.repo.name, null, item.public)}`;
+   return `${actionIcon("delete", "❌")} Deleted \`${item.payload.ref}\` from ${toUrlFormat(item.repo.name, null, item.public)}`;
   },
   ForkEvent: (item) => {
    return `${actionIcon("fork", "🍴")} Forked ${toUrlFormat(item.repo.name, null, item.public)} to ${toUrlFormat(item.payload.forkee.full_name, null, item.payload.forkee.public)}`;
@@ -44,16 +43,16 @@ export async function fetch_activities(username) {
    return `${actionIcon("release", "🏷")} Released ${item.public ? `[\`${item.payload.release.tag_name}\`](${item.payload.release.html_url})` : `\`${item.payload.release.tag_name}\``} in ${toUrlFormat(item.repo.name, null, item.public)}`;
   },
   WatchEvent: (item) => {
-   return `${actionIcon("star", "⭐")} Starred repository ${toUrlFormat(item.repo.name, null, item.public)}`;
+   return `${actionIcon("star", "⭐")} Starred ${toUrlFormat(item.repo.name, null, item.public)}`;
   },
  };
 
  const timestamper = (item) => `\`[${item.created_at.split("T")[0].split("-").slice(1, 3).join("/")} ${item.created_at.split("T")[1].split(":").slice(0, 2).join(":")}]\``;
  const toUrlFormat = (item, branch, repo_public) => {
   if (typeof item === "object") {
-   return Object.hasOwnProperty.call(item.payload, "issue") ? (repo_public ? `[\`#${item.payload.issue.number}\`](https://github.com/${item.repo.name}/issues/${item.payload.issue.number} '${item.payload.issue.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.issue.number}\``) : repo_public ? `[\`#${item.payload.pull_request.number}\`](https://github.com/${item.repo.name}/pull/${item.payload.pull_request.number} '${item.payload.pull_request.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.pull_request.number}\``;
+   return Object.hasOwnProperty.call(item.payload, "issue") ? (repo_public ? `[\`#${item.payload.issue.number}\`](https://github.com//${item.repo.name}/issues/${item.payload.issue.number} '${item.payload.issue.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.issue.number}\``) : repo_public ? `[\`#${item.payload.pull_request.number}\`](https://github.com//${item.repo.name}/pull/${item.payload.pull_request.number} '${item.payload.pull_request.title.replace(/'/g, "\\'")}')` : `\`#${item.payload.pull_request.number}\``;
   }
-  return `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
+  return !repo_public ? (branch ? `\`${branch}\`` : `<span title="Private Repo">\`🔒${item}\`</span>`) : `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
  };
  const actionIcon = (name, alt) => `<a href="https://github.com/whxyu1337" title="${alt}"><img alt="${alt}" src="https://github.com/${username}/${username}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
  await Toolkit.run(async (tools) => {
@@ -84,11 +83,8 @@ export async function fetch_activities(username) {
     return serializers.hasOwnProperty(event.type);
    })
    .slice(0, activity.max_lines || 15)
-   .map((item) => {
-    if (!item.public) return null; // Hide private events
-    return `${timestamper(item)} ${serializers[item.type](item)}`;
-   })
-   .filter((item) => (item ? !item.match(/^`\[\d{1,2}\/\d{1,2} \d{1,2}:\d{2}]` undefined$/) : false));
+   .map((item) => `${timestamper(item)} ${serializers[item.type](item)}`)
+   .filter((item) => !item.match(/^`\[\d{1,2}\/\d{1,2} \d{1,2}:\d{2}]` undefined$/));
   if (!content.length) throw new Error("No events found!");
   if (content.length < 5) throw new Error("Found less than 5 activities!");
  });
