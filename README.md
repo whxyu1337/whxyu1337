@@ -58,61 +58,12 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 ### 📊 Github Statistics
 
 <!--START_SECTION:waka-->
- | 🏆 Contributions (Total) | 9666 |
-|:-:|:-:|
-| **🏆 Contributions in 2022:** | **2,695**|
-| **📦 Github Storage:** | **407.0 kB used**|
-| **📝 Total lines of code:** | **1.8 million**|
-| **📚 Public Repositories:** | **22** |
-| **🔑 Private Repositories:** | **only 1** |
-<details><summary>✨ Show more stats</summary>
-
-#### 🌙 I work most during night. 
-
-```text
-🌞 Morning    168 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
-🌆 Daytime    557 commits    █████████░░░░░░░░░░░░░░░░   38.33% 
-🌃 Evening    691 commits    ████████████░░░░░░░░░░░░░   47.56% 
-🌙 Night      37 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55%
-```
-#### 📅 I'm most productive on Monday 
-
-```text
-Monday       329 commits    █████░░░░░░░░░░░░░░░░░░░░   22.64% 
-Tuesday      297 commits    █████░░░░░░░░░░░░░░░░░░░░   20.44% 
-Wednesday    235 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.17% 
-Thursday     148 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
-Friday       129 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.88% 
-Saturday     181 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
-Sunday       134 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.22%
-```
-
-
-#### 📊 Weekly work stats 
-
-```text
-💬 Programming Languages: 
-JavaScript               17 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   35.95% 
-Other                    16 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   32.35% 
-Markdown                 8 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03% 
-JSON                     4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.18% 
-YAML                     2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.14%
-
-💻 Operating System: 
-Linux                    49 hrs 40 mins      █████████████████████████   100.0%
-```
-
-</details>
-
-<!-- Wakatime stats generated at 2022-12-19 14:10:07.116149 -->
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[12/19 13:02]` <a href="https://github.com/whxyu1337" title="📝"><img alt="📝" src="https://github.com/
- raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [whxyu1337/whxyu1337.dev](https://github.com/whxyu1337/whxyu1337.dev)<br>`[12/19 12:55]` <a href="https://github.com/whxyu1337" title="⭐"><img alt="⭐" src="https://github.com/whxyu1337/whxyu1337/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)<br>`[12/19 12:39]` <a href="https://github.com/whxyu1337" title="📝"><img alt="📝" src="https://github.com/whxyu1337/whxyu1337/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [whxyu1337/whxyu1337.dev](https://github.com/whxyu1337/whxyu1337.dev)<br>`[12/18 19:48]` <a href="https://github.com/whxyu1337" title="⭐"><img alt="⭐" src="https://github.com/whxyu1337/whxyu1337/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms)<br>`[12/18 18:23]` <a href="https://github.com/whxyu1337" title="📝"><img alt="📝" src="https://github.com/whxyu1337/whxyu1337/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [whxyu1337/whxyu1337.dev](https://github.com/whxyu1337/whxyu1337.dev)
 <!--END_SECTION:activity-->
 
 ---
 
-<p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"> <a href="https://keybase.io/whxyu1337">Keybase: @whxyu1337</a></p>
+<p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"> <a href="https://keybase.io/whxyu1337">I skid this readme from igorKowalczyk,check out his github lol</a></p>
