@@ -1,11 +1,11 @@
-<!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
+<!-- ## Hi! I'm Whxyu🖐️ -->
 
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://s120-ava-talk.zadn.vn/6/5/7/e/19/120/55d430aa26933b22af23b286a13f2372.jpg">  
 
 ## <img width="26" height="26" src="https://raw.githubusercontent.com/whxyu1337/whxyu1337//master/src/images/wave.gif" width="27px"> Hi! I'm Igor Kowalczyk
 > This is the place where I opensource stuff and break things :rofl:<br>
 
-[![Discord](https://img.shields.io/discord/976470654461288470?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/7C5BUFbUsG)
+[![Discord](https://img.shields.io/discord/1025701967076536341?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/7C5BUFbUsG)
 [![GitHub followers](https://img.shields.io/github/followers/whxyu1337?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/wxhyu1337?tab=followers)
 [![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%whxyu.dml)](https://whxyu.ml)
 [![Website](https://komarev.com/ghpvc/?username=whxyu1337&style=flat-square&color=333333&label=Views)](https://whxyu.ml)
