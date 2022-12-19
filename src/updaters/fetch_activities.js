@@ -55,7 +55,7 @@ export async function fetch_activities(username) {
   }
   return `[${branch ? `\`${branch}\`` : item}](https://github.com/${item}${branch ? `/tree/${branch}` : ""})`;
  };
- const actionIcon = (name, alt) => `<a href="https://github.com/igorkowalczyk" title="${alt}"><img alt="${alt}" src="https://github.com/${username}/${username}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
+ const actionIcon = (name, alt) => `<a href="https://github.com/whxyu1337" title="${alt}"><img alt="${alt}" src="https://github.com/${username}/${username}/raw/master/src/images/icons/${name}.png" align="top" height="18"></a>`;
  await Toolkit.run(async (tools) => {
   console.info(`::debug:: Getting activity for ${username}`);
   let eventArrs = [];
