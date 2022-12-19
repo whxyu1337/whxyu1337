@@ -33,5 +33,5 @@ jobs:
      with:
       commit_message: "[🚀] Code formatting"
       branch: ${{ github.head_ref }}
-      commit_user_name: IgorKowalczykBot
-      commit_user_email: "igor.kowalczyk.bot@onet.pl"
+      commit_user_name: whxyu1337Bot
+      commit_user_email: "wynn1337@gmail.com"
