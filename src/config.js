@@ -8,6 +8,6 @@ export const feed = {
 export const activity = {
  open: `<!--START_SECTION:activity-->`,
  close: `<!--END_SECTION:activity-->`,
- git_username: "igorkowalczyk",
+ git_username: "whxyu1337",
  max_lines: 15,
 };
