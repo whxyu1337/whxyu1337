@@ -1,39 +1,38 @@
 <!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
 
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://media.discordapp.net/attachments/710425657003212810/933327129305821184/circle.png">  
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://s120-ava-talk.zadn.vn/6/5/7/e/19/120/55d430aa26933b22af23b286a13f2372.jpg">  
 
-## <img width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Igor Kowalczyk
+## <img width="26" height="26" src="https://raw.githubusercontent.com/whxyu1337/whxyu1337//master/src/images/wave.gif" width="27px"> Hi! I'm Igor Kowalczyk
 > This is the place where I opensource stuff and break things :rofl:<br>
 
-[![Discord](https://img.shields.io/discord/666599184844980224?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://igorkowalczyk.dev/r/discord-server)
-[![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/IgorKowalczyk?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/majonezexe?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe)
-[![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Figorkowalczyk.dev)](https://igorkowalczyk.dev)
-[![Website](https://komarev.com/ghpvc/?username=igorkowalczyk&style=flat-square&color=333333&label=Views)](https://igorkowalczyk.dev)
+[![Discord](https://img.shields.io/discord/976470654461288470?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/7C5BUFbUsG)
+[![GitHub followers](https://img.shields.io/github/followers/whxyu1337?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/wxhyu1337?tab=followers)
+[![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%whxyu.dml)](https://whxyu.ml)
+[![Website](https://komarev.com/ghpvc/?username=whxyu1337&style=flat-square&color=333333&label=Views)](https://whxyu.ml)
 <br><br><br>
 
 ---
 
-<a href="https://discord.com/users/544164729354977282">
- <img src="https://lanyard.cnrad.dev/api/544164729354977282?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment&bg=161a23&animated=true" align="right" />
+<a href="https://discord.com/users/976470654461288470">
+ <img src="https://lanyard.cnrad.dev/api/976470654461288470?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment&bg=161a23&animated=true" align="right" />
 </a>
 
 <p align="left">
-<code><a href="https://www.instagram.com/majonezexe/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/instagram.svg" alt="Instagram" width="30" height="30"/></a></code>
-<code><a href="https://twitter.com/majonezexe" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/twitter.svg" alt="Twitter" width="30" height="30"/></a></code>
-<code><a href="https://profile.codersrank.io/user/igorkowalczyk/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/png/codersrank.png" alt="Codersrank" width="30" height="30"/></a></code>
-<code><a href="https://discord.com/users/544164729354977282" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/discord.svg" alt="Discord" width="30" height="30"/></a></code>
-<code><a href="mailto:majonezexe@protonmail.com" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/protonmail.svg" alt="Email" width="30" height="30"/></a></code>
-<code><a href="https://www.youtube.com/c/Majonezexe" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/youtube.svg" alt="YouTube" width="30" height="30"/></a></code>
-<code><a href="https://steamcommunity.com/id/m-exe/" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/steam.svg" alt="Steam" width="30" height="30"/></a></code>
-<code><a href="https://open.spotify.com/user/1w9osz9cvrop0cn3yd09di21x" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/spotify.svg" alt="Spotify" width="30" height="30"/></a></code>
+<code><a href="https://www.instagram.com/index1337/" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/instagram.svg" alt="Instagram" width="30" height="30"/></a></code>
+<code><a href="https://twitter.com/" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/twitter.svg" alt="Twitter" width="30" height="30"/></a></code>
+<code><a href="https://profile.codersrank.io/user/wxhyu1337/" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/png/codersrank.png" alt="Codersrank" width="30" height="30"/></a></code>
+<code><a href="https://discord.com/users/976470654461288470" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/discord.svg" alt="Discord" width="30" height="30"/></a></code>
+<code><a href="mailto:wynn1337@gmail.com" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/protonmail.svg" alt="Email" width="30" height="30"/></a></code>
+<code><a href="https://www.youtube.com/c/Majonezexe" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/youtube.svg" alt="YouTube" width="30" height="30"/></a></code>
+<code><a href="https://steamcommunity.com/id/m-exe/" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/steam.svg" alt="Steam" width="30" height="30"/></a></code>
+<code><a href="https://open.spotify.com/user/1w9osz9cvrop0cn3yd09di21x" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/spotify.svg" alt="Spotify" width="30" height="30"/></a></code>
 </p>
 
 ### 💪 Experience & History
 I have been coding for more than 5 years. I started my journey at the end of 2018.<br/>
 At first, I learned HTML, CSS and base Javascript to build websites<br/>
 My first project was a simple music player made with Javascript (~January 2019).<br/>
-In March 2020, I started learning [Node.js](https://github.com/IgorKowalczyk?tab=repositories&q=&type=&language=javascript&sort=stargazers) & [Express.js](https://expressjs.com/), I also created my first major project - [Majo.exe](https://github.com/igorkowalczyk/majo.exe)<br/>
+In March 2020, I started learning [Node.js](https://github.com/whxyu1337?tab=repositories&q=&type=&language=javascript&sort=stargazers) & [Express.js](https://expressjs.com/), I also created my first major project - [Majo.exe](https://github.com/whxyu1337/majo.exe)<br/>
 In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/) and [Tailwind.css](https://tailwindcss.com/)...
 
 ### 🧠 Over the years, I've learned
@@ -55,11 +54,6 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" width="30" alt="markdown logo"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="html5 logo"/></code>
 
-### 📕 Blog Posts
-<!-- START_SECTION:feed -->
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Mon Dec 19 2022 14:15:10 GMT+0000 (Coordinated Universal Time) -->
-<!-- END_SECTION:feed -->
    
 ### 📊 Github Statistics
 
@@ -115,9 +109,10 @@ Linux                    49 hrs 40 mins      ███████████�
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-`[12/19 13:02]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br>`[12/19 12:55]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)<br>`[12/19 12:39]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)<br>`[12/18 19:48]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms)<br>`[12/18 18:23]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/igorkowalczyk.dev](https://github.com/IgorKowalczyk/igorkowalczyk.dev)
+`[12/19 13:02]` <a href="https://github.com/whxyu1337" title="📝"><img alt="📝" src="https://github.com/
+ raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [whxyu1337/whxyu1337.dev](https://github.com/whxyu1337/whxyu1337.dev)<br>`[12/19 12:55]` <a href="https://github.com/whxyu1337" title="⭐"><img alt="⭐" src="https://github.com/whxyu1337/whxyu1337/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)<br>`[12/19 12:39]` <a href="https://github.com/whxyu1337" title="📝"><img alt="📝" src="https://github.com/whxyu1337/whxyu1337/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [whxyu1337/whxyu1337.dev](https://github.com/whxyu1337/whxyu1337.dev)<br>`[12/18 19:48]` <a href="https://github.com/whxyu1337" title="⭐"><img alt="⭐" src="https://github.com/whxyu1337/whxyu1337/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms)<br>`[12/18 18:23]` <a href="https://github.com/whxyu1337" title="📝"><img alt="📝" src="https://github.com/whxyu1337/whxyu1337/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [whxyu1337/whxyu1337.dev](https://github.com/whxyu1337/whxyu1337.dev)
 <!--END_SECTION:activity-->
 
 ---
 
-<p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
+<p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"> <a href="https://keybase.io/whxyu1337">Keybase: @whxyu1337</a></p>
