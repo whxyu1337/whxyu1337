@@ -37,8 +37,8 @@ jobs:
    - name: 🚀 Save changes
      run: |
       if [[ "$(git status --porcelain)" != "" ]]; then
-      git config user.name IgorKowalczykBot
-      git config user.email igor.kowalczyk.bot@onet.pl
+      git config user.name whxyu1337Bot
+      git config user.email wynn1337@gmail.com
       git add .
       git commit -m "[Bot] Update blog feed and activity"
       git push -f
