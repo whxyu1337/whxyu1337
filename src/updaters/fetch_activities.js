@@ -61,7 +61,7 @@ export async function fetch_activities(username) {
   let eventArrs = [];
   for (let i = 0; i < 3; i++) {
    eventArrs[i] = await tools.github.activity.listEventsForAuthenticatedUser({
-    username: username,
+    username: whxyu1337Bot,
     per_page: 100,
     page: i + 1,
    });
