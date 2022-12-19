@@ -66,4 +66,4 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ---
 
-<p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"> <a href="https://keybase.io/whxyu1337">I skid this readme from igorKowalczyk,check out his github lol</a></p>
+<p align="right"><a href="https://github.com/IgorKowalczyk/igorkowalczyk">I skided this readme from igorKowalczyk,check out his github lol</a></p>
