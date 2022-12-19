@@ -2,7 +2,7 @@
 
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://s120-ava-talk.zadn.vn/6/5/7/e/19/120/55d430aa26933b22af23b286a13f2372.jpg">  
 
-## <img width="26" height="26" src="https://raw.githubusercontent.com/whxyu1337/whxyu1337//master/src/images/wave.gif" width="27px"> Hi! I'm Igor Kowalczyk
+## <img width="26" height="26" src="https://raw.githubusercontent.com/whxyu1337/whxyu1337//master/src/images/wave.gif" width="27px"> Hi! I'm Whxyu
 > This is the place where I opensource stuff and break things :rofl:<br>
 
 [![Discord](https://img.shields.io/discord/1025701967076536341?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/7C5BUFbUsG)
@@ -23,9 +23,9 @@
 <code><a href="https://profile.codersrank.io/user/wxhyu1337/" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/png/codersrank.png" alt="Codersrank" width="30" height="30"/></a></code>
 <code><a href="https://discord.com/users/976470654461288470" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/discord.svg" alt="Discord" width="30" height="30"/></a></code>
 <code><a href="mailto:wynn1337@gmail.com" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/protonmail.svg" alt="Email" width="30" height="30"/></a></code>
-<code><a href="https://www.youtube.com/c/Majonezexe" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/youtube.svg" alt="YouTube" width="30" height="30"/></a></code>
-<code><a href="https://steamcommunity.com/id/m-exe/" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/steam.svg" alt="Steam" width="30" height="30"/></a></code>
-<code><a href="https://open.spotify.com/user/1w9osz9cvrop0cn3yd09di21x" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/spotify.svg" alt="Spotify" width="30" height="30"/></a></code>
+<code><a href="https://www.youtube.com/@mashedpotato1063" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/youtube.svg" alt="YouTube" width="30" height="30"/></a></code>
+<code><a href="https://steamcommunity.com/i" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/steam.svg" alt="Steam" width="30" height="30"/></a></code>
+<code><a href="https://open.spotify.com/user/dvhrypjanyskgr7f6ev5tau71?si=9d51415b7ca34f04" target="_blank"><img src="https://github.com/whxyu1337/whxyu1337/blob/master/src/images/readme/svg/spotify.svg" alt="Spotify" width="30" height="30"/></a></code>
 </p>
 
 ### 💪 Experience & History
