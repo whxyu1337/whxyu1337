@@ -1,66 +1,3 @@
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 11:49:53 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 11:35:15 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 11:22:20 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 11:10:31 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 10:49:37 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 10:31:32 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 10:13:58 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 09:49:45 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 09:37:07 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 09:27:09 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 09:13:13 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 08:49:34 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 08:37:42 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 08:16:14 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 07:50:25 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 07:35:31 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 07:23:42 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 07:11:28 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 06:49:47 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 06:40:14 GMT+0000 (Coordinated Universal Time) -->
-<!-- ## I skidded from igo
-- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
-<!-- Posts last updated on Tue Dec 20 2022 06:17:31 GMT+0000 (Coordinated Universal Time) -->
 <!-- ## I skidded from igorKowalczyk/igorkowalczyk  -->
 
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://s120-ava-talk.zadn.vn/6/5/7/e/19/120/55d430aa26933b22af23b286a13f2372.jpg">  
@@ -92,10 +29,10 @@
 </p>
 
 ### 💪 Experience & History
-I have been coding for more than 5 years. I started my journey at the end of 2018.<br/>
+I have been coding for just about 2 years since im just 16. I started my journey at the end of 2020.<br/>
 At first, I learned HTML, CSS and base Javascript to build websites<br/>
 My first project was a simple music player made with Javascript (~January 2019).<br/>
-In March 2020, I started learning [Node.js](https://github.com/whxyu1337?tab=repositories&q=&type=&language=javascript&sort=stargazers) & [Express.js](https://expressjs.com/), I also created my first major project - [Majo.exe](https://github.com/whxyu1337/majo.exe)<br/>
+In March 2020, I started learning [Node.js](https://github.com/whxyu1337?tab=repositories&q=&type=&language=javascript&sort=stargazers) & [Express.js](https://expressjs.com/)<br/>
 In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/) and [Tailwind.css](https://tailwindcss.com/)...
 
 ### 🧠 Over the years, I've learned
