@@ -1,3 +1,6 @@
+<!-- ## I skidded from igo
+- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Tue Dec 20 2022 06:17:31 GMT+0000 (Coordinated Universal Time) -->
 <!-- ## I skidded from igorKowalczyk/igorkowalczyk  -->
 
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://s120-ava-talk.zadn.vn/6/5/7/e/19/120/55d430aa26933b22af23b286a13f2372.jpg">  
@@ -62,6 +65,7 @@ In April 2022, I started learning [React.js](https://reactjs.org/), [Next.js](ht
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+`[12/19 23:51]` <a href="https://github.com/whxyu1337" title="🗣"><img alt="🗣" src="https://github.com/whxyu1337/whxyu1337/raw/master/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#28`](https://github.com/IgorKowalczyk/igorkowalczyk/issues/28 'Bad credentials error') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[12/19 15:29]` <a href="https://github.com/whxyu1337" title="❗️"><img alt="❗️" src="https://github.com/whxyu1337/whxyu1337/raw/master/src/images/icons/issue.png" align="top" height="18"></a> Closed issue [`#28`](https://github.com/IgorKowalczyk/igorkowalczyk/issues/28 'Bad credentials err') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[12/19 15:27]` <a href="https://github.com/whxyu1337" title="⭐"><img alt="⭐" src="https://github.com/whxyu1337/whxyu1337/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred repository [whxyu1337/whxyu1337](https://github.com/whxyu1337/whxyu1337)<br>`[12/19 15:13]` <a href="https://github.com/whxyu1337" title="❗️"><img alt="❗️" src="https://github.com/whxyu1337/whxyu1337/raw/master/src/images/icons/issue.png" align="top" height="18"></a> Opened issue [`#28`](https://github.com/IgorKowalczyk/igorkowalczyk/issues/28 'Bad credentials err') in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[12/19 14:19]` <a href="https://github.com/whxyu1337" title="🍴"><img alt="🍴" src="https://github.com/whxyu1337/whxyu1337/raw/master/src/images/icons/fork.png" align="top" height="18"></a> Forked [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk) to [whxyu1337/whxyu1337](https://github.com/whxyu1337/whxyu1337)
 <!--END_SECTION:activity-->
 
 ---
