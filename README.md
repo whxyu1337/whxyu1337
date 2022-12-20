@@ -1,3 +1,6 @@
+<!-- ## I skidded from igo
+- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Tue Dec 20 2022 12:24:16 GMT+0000 (Coordinated Universal Time) -->
 <!-- ## I skidded from igorKowalczyk/igorkowalczyk  -->
 
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://s120-ava-talk.zadn.vn/6/5/7/e/19/120/55d430aa26933b22af23b286a13f2372.jpg">  
