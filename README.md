@@ -1,5 +1,8 @@
 <!-- ## I skidded from igo
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
+<!-- Posts last updated on Mon Jan 02 2023 01:03:04 GMT+0000 (Coordinated Universal Time) -->
+<!-- ## I skidded from igo
+- [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
 <!-- Posts last updated on Sun Jan 01 2023 23:49:46 GMT+0000 (Coordinated Universal Time) -->
 <!-- ## I skidded from igo
 - [How I built my website](https://igorkowalczyk.dev/blog/how-i-built-my-website) `[August 12, 2022]`
